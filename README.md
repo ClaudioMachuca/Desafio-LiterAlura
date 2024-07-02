@@ -1,4 +1,4 @@
-# Desafio LiterAlura
+# 📚 Desafio LiterAlura
 
 Este proyecto es una aplicación de gestión de libros y autores, desarrollado como parte del desafío de Alura.
 
@@ -6,11 +6,11 @@ Este proyecto es una aplicación de gestión de libros y autores, desarrollado c
 ![Descripción de la imagen](imagenes/Menu.jpg)
 
 
-## Descripción
+## 🚀 Descripción
 
 Desafio LiterAlura es una aplicación de (Consola) para gestionar información de libros y autores. Permite buscar libros en una API externa, almacenar la información en una base de datos, y realizar consultas sobre los libros y autores registrados.
 
-## Funciones de la aplicacion 
+## ⚙️ Funciones de la aplicacion 
 
 - Buscar libros en una API externa
 - Almacenamiento de libros y autores en una base de datos PostgreSQL
@@ -20,39 +20,39 @@ Desafio LiterAlura es una aplicación de (Consola) para gestionar información d
 - Listar libros por idioma 
 
 
-## Buscar libro y guardarlo
+## 📝 Buscar libro y guardarlo
 
 ![Descripción de la imagen](imagenes/Buscar%20libro%20y%20guardarlo.jpg)
 
-## Libro no encontrado
+## 📝 Libro no encontrado
 
 ![Descripción de la imagen](imagenes/Libro%20no%20encontrado.jpg)
 
-## Libro ya registrado en la base de datos
+## 📝 Libro ya registrado en la base de datos
 
 ![Descripción de la imagen](imagenes/Libro%20ya%20registrado.jpg)
 
-## Listar libros registrados
+## 📝 Listar libros registrados
 
 ![Descripción de la imagen](imagenes/Listar%20libros%20registrados.jpg)
 
-## Listar autores registrados
+## 📝 Listar autores registrados
 
 ![Descripción de la imagen](imagenes/Listar%20autores%20registrados.jpg)
 
-## Listar autores vivos en un determinado año
+## 📝 Listar autores vivos en un determinado año
 
 ![Descripción de la imagen](imagenes/Listar%20autores%20vivos%20en%20determinado%20año.jpg)
 
-## Listar libros por idioma
+## 📝 Listar libros por idioma
 
 ![Descripción de la imagen](imagenes/Listar%20libros%20por%20idioma.jpg)
 
-## Busqueda de libro no encontrado por idioma
+## 📝 Busqueda de libro no encontrado por idioma
 
 ![Descripción de la imagen](imagenes/No%20se%20encontraron%20libros%20en%20el%20idioma.jpg)
 
-## Servicios utilizados
+## 💻 Servicios utilizados
 
 - Intellij IDEA
 - Java Spring 3.3.1
@@ -65,7 +65,7 @@ Desafio LiterAlura es una aplicación de (Consola) para gestionar información d
 - PostgreSQL Driver
 - Jackson-databind
 
-## Autor 
+## 📧 Autor 
 
 - Claudio Machuca
 - claudio.a97@outlook.es
