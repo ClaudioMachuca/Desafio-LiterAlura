@@ -24,6 +24,38 @@ Desafio LiterAlura es una aplicación de (Consola) para gestionar información d
 
 ![Descripción de la imagen](imagenes/Buscar%20libro%20y%20guardarlo.jpg)
 
+## Libro no encontrado
+
+![Descripción de la imagen](imagenes/Libro%20no%20encontrado.jpg)
+
+## Libro ya registrado en la base de datos
+
+![Descripción de la imagen](imagenes/Libro%20ya%20registrado.jpg)
+
+## Listar libros registrados
+
+![Descripción de la imagen](imagenes/Listar%20libros%20registrados.jpg)
+
+## Listar autores registrados
+
+![Descripción de la imagen](imagenes/Listar%20autores%20registrados.jpg)
+
+## Listar autores vivos en un determinado año
+
+![Descripción de la imagen](imagenes/Listar%20autores%20vivos%20en%20determinado%20año.jpg)
+
+## Listar libros por idioma
+
+![Descripción de la imagen](imagenes/Listar%20libros%20por%20idioma.jpg)
+
+## Busqueda de libro no encontrado por idioma
+
+![Descripción de la imagen](imagenes/No%20se%20encontraron%20libros%20en%20el%20idioma.jpg)
+
+
+
+
+
 - [Java JDK 11+](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
 - [Maven](https://maven.apache.org/install.html)
 - [PostgreSQL](https://www.postgresql.org/download/)
