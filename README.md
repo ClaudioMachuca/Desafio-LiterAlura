@@ -52,12 +52,23 @@ Desafio LiterAlura es una aplicación de (Consola) para gestionar información d
 
 ![Descripción de la imagen](imagenes/No%20se%20encontraron%20libros%20en%20el%20idioma.jpg)
 
+## Servicios utilizados
 
+- Intellij IDEA
+- Java Spring 3.3.1
+- Postgresql
+- https://gutendex.com/
 
+## Dependencias 
 
+- Spring Data JPA
+- PostgreSQL Driver
+- Jackson-databind
 
-- [Java JDK 11+](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
-- [Maven](https://maven.apache.org/install.html)
-- [PostgreSQL](https://www.postgresql.org/download/)
+## Autor 
 
-###End
+- Claudio Machuca
+- claudio.a97@outlook.es
+- Formacion Java y Spring Boot G6 - ONE
+- Alura Latam
+- Oracle Next Education
