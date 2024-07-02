@@ -22,7 +22,7 @@ Desafio LiterAlura es una aplicación de (Consola) para gestionar información d
 
 ## Buscar libro y guardarlo
 
-![Descripción de la imagen](imagenes/Buscar_libro_y_guardarlo.jpg)
+![Descripción de la imagen](imagenes/Buscar%20libro%20y%20guardarlo.jpg)
 
 - [Java JDK 11+](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
 - [Maven](https://maven.apache.org/install.html)
